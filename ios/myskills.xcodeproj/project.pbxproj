@@ -145,7 +145,6 @@
 				B263881BF6A48BD61EB480C7 /* Pods-myskills-myskillsTests.debug.xcconfig */,
 				597C7C435799F3130FA0BFFF /* Pods-myskills-myskillsTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
